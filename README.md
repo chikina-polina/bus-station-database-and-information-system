@@ -1,2 +1,2 @@
 # bus-station-database-and-information-system
-A Database and an Information System developed for a Bus Station using PostgreSQL and UML, IDEF0, DFD and IDEF3 diagrams.
+This project contains a database created in PostgreSQL and an information system model developed using UML, IDEF0, DFD and IDEF3 diagrams for the bus station's functions. Mainly, the automated process of buying a ticket via the bus station's website is examined. 
